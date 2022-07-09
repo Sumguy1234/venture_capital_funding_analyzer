@@ -1,0 +1,2 @@
+# venture_capital_funding_analyzer
+This app looks at a dataset of more than 34k organizations that have received funding from a venture capital firm over the years. The csv contains a variety of info about each business including whether or not it ultimately succeeded. This app uses a deep neural network machine learning approach to create a binary classification model that will predict whether an applicant will become a successful business.
